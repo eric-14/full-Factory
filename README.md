@@ -23,6 +23,9 @@ The following is a youtube video detailing the full project.
 # Software required 
 
 `TIA portal >v15`
+`Factory IO`
+
+Factory.rar contains the full project assets in factory IO.
 
 Programming a Factory using SCL language in TIA portal 
 
